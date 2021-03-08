@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter8</string>
+    <string name="imgSail">Sailing Image</string>
+    <string name="txtTitle">Sailing iAdventures in Hawaii</string>
+    <string name="btnDate">Choose the desired date</string>
+    <string name="textDescription">A long text about describing the website</string>
+</resources>
